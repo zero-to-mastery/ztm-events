@@ -1,7 +1,7 @@
 
 ## Description
 
-The Local Meetup is a web-based application created by students from the Zero To Mastery Academy.
+The Local Meetup is a web-based application created by students from Zero To Mastery Academy.
 
 The goal of the app is to make it easier for ZTM students to find local meetups near them and to track the history of the local meetups.
 
@@ -39,19 +39,24 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+The app is created using Next.js framework of React.
+
+To create a new component go to app/components. 
+To create a new page: 
+- create a new folder inside of app
+- give it a meaningful name (it should match the name of your page)
+- create a new page.jsx file inside of this folder where you can write the code for your new page.
+
+### To learn more about Next.js, take a look at the following resources:
 
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
+## Project structure
+You can take a look at the initial static structure of the website [here](https://whimsical.com/local-meetup-website-home-EdqpJVANGt1LRDcq52r1PD).
+
+For data storage and authentication we are using noSQL db from Firebase.
 
 ## Contributing
 
 Contributions are very welcome, please view the Code of Conduct.
-
-Add yourself to the List of Contributors and submit a pull request if you've contributed.
-
-Working on your first Pull Request? Learn how from this in-depth series: How to Contribute to an Open Source Project on GitHub.
-
-License
-This project is licensed under the MIT License - see the LICENSE.md file for details
