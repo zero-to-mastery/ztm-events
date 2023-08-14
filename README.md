@@ -5,6 +5,11 @@ The Local Meetup is a web-based application created by students from Zero To Mas
 
 The goal of the app is to make it easier for ZTM students to find local meetups near them and to track the history of the local meetups.
 
+## Project structure
+You can take a look at the initial static structure of the website [here](https://whimsical.com/local-meetup-website-home-EdqpJVANGt1LRDcq52r1PD).
+
+For data storage and authentication we are using noSQL db from Firebase.
+
 ## Functionality
 
 Local chapter leaders should be able to post the upcoming events as well as the past events.
@@ -52,10 +57,6 @@ To create a new page:
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-## Project structure
-You can take a look at the initial static structure of the website [here](https://whimsical.com/local-meetup-website-home-EdqpJVANGt1LRDcq52r1PD).
-
-For data storage and authentication we are using noSQL db from Firebase.
 
 ## Contributing
 
