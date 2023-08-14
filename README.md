@@ -59,4 +59,4 @@ For data storage and authentication we are using noSQL db from Firebase.
 
 ## Contributing
 
-Contributions are very welcome, please view the Code of Conduct.
+Contributions are very welcome, please view the [Code of Conduct](https://github.com/MishaFomenko/local-meetup/blob/main/CODE_OF_CONDUCT.md).
