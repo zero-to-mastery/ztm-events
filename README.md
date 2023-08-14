@@ -62,3 +62,7 @@ For data storage and authentication we are using noSQL db from Firebase.
 Contributions are very welcome, please view the [Code of Conduct](https://github.com/MishaFomenko/local-meetup/blob/main/CODE_OF_CONDUCT.md).
 
 Add yourself to the [List of Contributors](https://github.com/MishaFomenko/local-meetup/blob/main/CONTRIBUTORS.md) and submit a pull request if you've contributed.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/zero-to-mastery/book-tracker/blob/master/LICENSE) file for details
