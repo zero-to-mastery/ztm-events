@@ -3,7 +3,7 @@
 
 The Local Meetup is a web-based application created by students from Zero To Mastery Academy.
 
-The goal of the app is to make it easier for ZTM students to find local meetups near them and to track the history of the local meetups.
+The goal of the app is to make it easier for ZTM students to find information about both the upcoming and the past ZTM events.
 
 ## Project structure
 You can take a look at the initial static structure of the website [here](https://whimsical.com/local-meetup-website-home-EdqpJVANGt1LRDcq52r1PD).
@@ -12,11 +12,11 @@ For data storage and authentication we are using noSQL db from Firebase.
 
 ## Functionality
 
-Local chapter leaders should be able to post the upcoming events as well as the past events.
+ZTM team members should be able to post the upcoming events as well as the past events.
 
-Users should be able to find currently active locations.
+Users should be able to find events' information.
 
-Users should be able to find the Discord chats related to the local meetups.
+Users should be able to find the Discord chats related to specific events.
 
 ## Getting Started
 ### Prerequisites:
