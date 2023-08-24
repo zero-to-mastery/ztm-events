@@ -8,7 +8,7 @@ The goal of the app is to make it easier for ZTM students to find information ab
 ## Project structure
 You can take a look at the initial static structure of the website [here](https://whimsical.com/local-meetup-website-home-EdqpJVANGt1LRDcq52r1PD).
 
-For data storage and authentication we are using noSQL db from Firebase.
+For data storage and authentication we are using noSQL db from Firebase(as of now, but we could also set up our own server, so any soggestions are welcome).
 
 ## Functionality
 
