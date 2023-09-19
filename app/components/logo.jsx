@@ -1,15 +1,14 @@
-import Image from 'next/image'
+import Image from 'next/image';
 
 export default function Logo() {
-    return (
-        <>
-        <Image 
-        className='ml-4'
+  return (
+    <>
+      <Image
         src='/images/meetupLogo.png'
         height={100}
         width={100}
-        alt="meetup logo"
-        />
-        </>
-    )
+        alt='meetup logo'
+      />
+    </>
+  );
 }
