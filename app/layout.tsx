@@ -18,7 +18,10 @@ export default function RootLayout({
   return (
     <html lang="en">
 
-      <body className={inter.className}>{children}</body>
+      <body className={inter.className}>
+        <main className='h-screen' style={{ backgroundColor: 'rgb(241, 156, 121)' }}>
+          {children}
+        </main></body>
     </html>
   )
 }
