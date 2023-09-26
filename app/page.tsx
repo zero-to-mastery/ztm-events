@@ -1,10 +1,12 @@
-import Navigation from './components/navigation'
+import EventCategories from '@/components/categories'
+import Navigation from '../components/navigation'
 
 
 export default function Home() {
   return (
-    <main className='h-screen' style={{backgroundColor: 'rgb(241, 156, 121)'}}>
+    <div>
       <Navigation />
-    </main>
+      <EventCategories />
+    </div>
   )
 }
